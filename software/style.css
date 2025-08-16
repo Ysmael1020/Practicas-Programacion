@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue;
+}
+h1 {
+    font-size: 2rem;
+    color: rgba(145, 43, 43, 1);
+    text-align: center;
+   border-image: auto 23px;
+}
+
+h1:hover {
+    color: rgba(145, 43, 43, 0.8);
+    text-decoration: underline;
+}   
+h1 
+{
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
